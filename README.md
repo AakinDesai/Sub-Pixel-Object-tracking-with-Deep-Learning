@@ -12,6 +12,6 @@ It is end to end Machine Learning Model to track Optical Flow. It Combines sever
 
 This project used **FlownetC** model for real time Sub-Pixel object tracking. 
 
-To install Nvidia Flownet go to this [resource](https://github.com/NVIDIA/flownet2-pytorch)
+To install Nvidia Flownet go to this [resource](https://github.com/NVIDIA/flownet2-pytorch).
 
 
